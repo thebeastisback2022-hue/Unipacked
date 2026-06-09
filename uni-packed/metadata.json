@@ -1,0 +1,6 @@
+{
+  "name": "Uni Packed",
+  "description": "Pack Smart. Arrive Easy. Settle Faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
